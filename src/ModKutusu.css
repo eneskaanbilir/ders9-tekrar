@@ -1,0 +1,9 @@
+.mod-kutusu{
+    border: 1px solid white;
+    padding: 1rem;
+    transition: 0.4s;
+}
+.mod-kutusu:hover{
+    background-color: #ccc;
+    cursor: pointer;
+}
