@@ -1,0 +1,11 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: rgba(176, 205, 49, 0.814);
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}

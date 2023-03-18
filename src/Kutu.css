@@ -1,0 +1,9 @@
+.kutu{
+    border: 3px solid white;
+    padding: 1rem;
+    transition: 0.4s;
+}
+.kutu:hover{
+    background-color: white;
+    border-color: black;
+}
